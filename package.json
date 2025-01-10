@@ -1,0 +1,11 @@
+{
+  "name": "v4company-frontend-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:V4-Company/v4company-frontend-v2.git",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@v4-company/workforce",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@v4-company/lib": "^0.0.1"
+  },
+  "scripts": {
+    "start": "tsx index.ts"
+  }
+}
